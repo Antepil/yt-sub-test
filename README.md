@@ -133,20 +133,6 @@ npm run dev
 ```
 
 ---
-
-### 如何在 Trae / VS Code 中添加这个文件？
-
-1.  在左侧文件列表中，鼠标右键点击最顶部的文件夹（根目录）。
-2.  选择 **New File (新建文件)**。
-3.  命名为 `README.md`。
-4.  将上面的代码块内容全部粘贴进去。
-5.  保存，然后提交到 GitHub：
-    ```bash
-    git add README.md
-    git commit -m "Add instruction manual"
-    git push
-    ```
-
 这样，别人（或者未来的你）打开 GitHub 仓库主页时，就能直接看到这份漂亮的说明书了！
 
 ```
