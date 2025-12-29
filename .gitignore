@@ -5,3 +5,8 @@ venv/
 node_modules/
 .DS_Store
 .env
+
+# Python
+api/venv
+**/__pycache__
+*.pyc
