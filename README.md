@@ -130,9 +130,4 @@ npm run dev
 * **Backend:** Python, FastAPI, yt-dlp
 * **Frontend:** React, Vite, TailwindCSS
 
-```
 
----
-这样，别人（或者未来的你）打开 GitHub 仓库主页时，就能直接看到这份漂亮的说明书了！
-
-```
